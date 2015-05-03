@@ -1,0 +1,8 @@
+C:\dev\blog\solid\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\dev\blog\solid\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\dev\blog\solid\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\dev\blog\solid\OpenClosedPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\dev\blog\solid\OpenClosedPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+C:\dev\blog\solid\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+C:\dev\blog\solid\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\dev\blog\solid\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
